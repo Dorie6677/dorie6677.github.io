@@ -1,6 +1,7 @@
 # main links links
 main:
-
+  - title: "Genius"
+    url: /Genius/  
 
   - title: "Talks"
     url: /talks/    
